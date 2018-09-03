@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 # Sumanyu Rosha
 ### Day 1: September 03, 2018 
-##### (delete me or comment me out)
 
 **Today's Progress**: Solved 3 problems from Array section and 1 problem from Strings section. Used [SET](http://www.cplusplus.com/reference/set/set/) data structure in one of the problems.
 
