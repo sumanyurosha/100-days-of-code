@@ -1,14 +1,12 @@
 # 100 Days Of Code - Log
-#DhruvamSharma
-### Day 1: December 30, 2017 
+# Sumanyu Rosha
+### Day 1: September 03, 2018 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Implemented RecyclerView
-
-**Thoughts:** Had worked on Recycler View Earlier but never really understood it. Now's the time!
-
-**Link to work:** [RecyclerView](https://github.com/DhruvamSharma/CSS-Grids.git )
-
+**Today's Progress**: Solved 3 problems from Array section and 1 problem from Strings section. Used set data structure in one of the problems.
+**Thoughts:** After a lot of procastination, finally I have decided to take this Challenge.
+**Link to wok**
+[Codechef Prepare](https://www.codechef.com/certification/prepare#foundation) 
 
 
 ### Day 2-0: December 31, 2017
@@ -242,13 +240,13 @@
 
 
 
-/**********************************NO WORK*********************************/
+/**********************************NO WORK**********************************/
 
 ### Day 20: January 18-23, 2018
 
 **Today's Progress**: No work Done !!
 
-/**********************************NO WORK*********************************/
+/**********************************NO WORK**********************************/
 
 
 
