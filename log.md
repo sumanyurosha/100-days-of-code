@@ -4,7 +4,9 @@
 ##### (delete me or comment me out)
 
 **Today's Progress**: Solved 3 problems from Array section and 1 problem from Strings section. Used set data structure in one of the problems.
+
 **Thoughts:** After a lot of procastination, finally I have decided to take this Challenge.
+
 **Link to wok**
 [Codechef Prepare](https://www.codechef.com/certification/prepare#foundation) 
 
