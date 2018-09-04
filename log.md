@@ -10,26 +10,16 @@
 [Codechef Prepare](https://www.codechef.com/certification/prepare#foundation) 
 
 
-### Day 2-0: December 31, 2017
+### Day 2: September 04, 2018
 
-**Today's Progress**: Wrote a Technical Article on RecyclerView
+**Today's Progress**: Solved 1 problem on codechef using 2 ways. Firstly by using [MAP](http://www.cplusplus.com/reference/map/map/) data structure and Secondly by using hashing technique.
 
-**Thoughts** Was trying to write an article for so long. After multiple attempts, I have written one successfully
+**Thoughts** It took me only 2 minutes for writing the code using hashing and almost an hour for map but yeah I got to learn something new today.
 
 **Link(s) to work**
- [Understanding RecyclerView](https://medium.com/@dhruvamsharma/understanding-recyclerview-a-high-level-insight-part-1-dc3f81af5720)
-
-
-
-### Day 2-1: December 31, 2017
-
-**Today's Progress**: Started with a CSS Grid Tutorial And implemented a responsive design in a few lines of code
-
-**Thoughts** Had already Made one but was never fully confident about it. But now I am.
-
-**Link to wok**
-[CSS Grid](https://github.com/DhruvamSharma/CSS-Grids.git)
-
+ [Problem Statement](https://www.codechef.com/problems/LAPIN) 
+ [My Solution(Using Hashing)](https://github.com/sumanyurosha/100-days-of-code/blob/master/codes/LAPIN2.cpp)
+ [My Solution(Using Map)](https://github.com/sumanyurosha/100-days-of-code/blob/master/codes/LAPIN.cpp) 
 
 
 ### Day 3: January 1, 2018
