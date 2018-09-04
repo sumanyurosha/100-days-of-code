@@ -18,8 +18,10 @@
 
 **Link(s) to work**
  [Problem Statement](https://www.codechef.com/problems/LAPIN) 
- [My Solution(Using Hashing)](https://github.com/sumanyurosha/100-days-of-code/blob/master/codes/LAPIN2.cpp)
- [My Solution(Using Map)](https://github.com/sumanyurosha/100-days-of-code/blob/master/codes/LAPIN.cpp) 
+ 
+ [My Solution(Using Map)](https://www.codechef.com/viewsolution/19954755) 
+ 
+ [My Solution(Using Hashing)](https://www.codechef.com/viewsolution/19954706)
 
 
 ### Day 3: January 1, 2018
