@@ -26,8 +26,14 @@
 
 ### Day 3: September 05, 2018
 
-**NO WORK DONE. SORRY!**
+**Today's Progress**: Solved one very easy problem today and learnt about [list](http://www.cplusplus.com/reference/list/list/) and [pair](http://www.cplusplus.com/reference/utility/pair/) data sructures
+I will do this problem using them tomorrow. 
 
+**Thoughts** It takes me a way much time to solve a problem using data structures as compared to simple programming approaches. I more learning from today, If you fear failure then you will surely find success. You just need to try again and again.
+**Link(s) to work**
+ [Problem Statement](https://www.codechef.com/problems/SPELLBOB) 
+
+ [My Solution](https://www.codechef.com/viewsolution/19963409)
 
 
 ### Day 4-0: January 2, 2018
