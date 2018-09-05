@@ -30,6 +30,7 @@
 I will do this problem using them tomorrow. 
 
 **Thoughts** It takes me a way much time to solve a problem using data structures as compared to simple programming approaches. I more learning from today, If you fear failure then you will surely find success. You just need to try again and again.
+
 **Link(s) to work**
  [Problem Statement](https://www.codechef.com/problems/SPELLBOB) 
 
