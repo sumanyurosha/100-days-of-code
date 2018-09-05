@@ -24,7 +24,7 @@
  [My Solution(Using Hashing)](https://www.codechef.com/viewsolution/19954706)
 
 
-### Day 3: January 1, 2018
+### Day 3: September 05, 2018
 
 **NO WORK DONE. SORRY!**
 
