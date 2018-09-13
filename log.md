@@ -45,3 +45,6 @@ I will do this problem using them tomorrow.
 
 **Link(s) to work
 [Problem](https://www.codechef.com/AUG18B/problems/SHKNUM)
+
+### September 07-13 ###
+** No Work Done **
