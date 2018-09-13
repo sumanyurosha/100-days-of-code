@@ -46,5 +46,13 @@ I will do this problem using them tomorrow.
 **Link(s) to work
 [Problem](https://www.codechef.com/AUG18B/problems/SHKNUM)
 
-### September 07-13 ###
+### September 07-12 ###
 ** No Work Done **
+
+### September 13, 2018 
+**Today's Progress**: Made a Java program that reads Excel sheets and checks if data from Sheet1 is present in Sheet2 or not.
+
+**Thoughts** Will test it more regrously in office
+
+**Link(s) to work** [Code](https://github.com/sumanyurosha/EclipseWorkspace/tree/master/Utilities)
+
