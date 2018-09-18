@@ -49,10 +49,37 @@ I will do this problem using them tomorrow.
 ### September 07-12 ###
 ** No Work Done **
 
-### September 13, 2018 
+### Day 5 : September 13, 2018 
 **Today's Progress**: Made a Java program that reads Excel sheets and checks if data from Sheet1 is present in Sheet2 or not.
 
 **Thoughts** Will test it more regrously in office
 
 **Link(s) to work** [Code](https://github.com/sumanyurosha/EclipseWorkspace/tree/master/Utilities)
+### September 14, 2018 
+**No work Done!**
+
+### Day 6 : September 15, 2018 
+**Today's Progress**: Tried to solve two problems but was unable to crack them.
+
+**Thoughts** Writing code is helping me gain my control over langauge again.
+
+**Link(s) to work**
+[Problem 1](https://www.codechef.com/SEPT18B/problems/XORIER)
+[Problem 2](https://www.codechef.com/SEPT18B/problems/BSHUFFLE)
+
+### Day 7 : September 16, 2018 
+**Today's Progress**: Again tried to solve the previously left problem but was unable to crack it.
+
+**Thoughts** Writing code is helping me gain my control over langauge again.
+
+**Link(s) to work**
+[Problem 1](https://www.codechef.com/SEPT18B/problems/BSHUFFLE)
+
+### Day 8 : September 17, 2018 
+**Today's Progress**: Revised Python from Udacity's Course I had done earlier.
+
+**Thoughts** Very excited for this.
+
+**Link(s) to work** [Udacity Python Course](https://classroom.udacity.com/courses/ud036)
+
 
