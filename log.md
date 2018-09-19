@@ -78,8 +78,14 @@ I will do this problem using them tomorrow.
 ### Day 8 : September 17, 2018 
 **Today's Progress**: Revised Python from Udacity's Course I had done earlier.
 
-**Thoughts** Very excited for this.
+**Thoughts** I need some more time to be comfortable in writing Python code.
 
 **Link(s) to work** [Udacity Python Course](https://classroom.udacity.com/courses/ud036)
 
+### Day 9 : September 18, 2018 
+**Today's Progress**: Completed week 1 of ML Course by Andrew Ng.
+
+**Thoughts** Very excited for this, plus I need to wrap it up fast!
+
+**Link(s) to work** [Course](https://www.coursera.org/learn/machine-learning/home/week/1)
 
